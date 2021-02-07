@@ -8,6 +8,8 @@ FAQ es una web que simula un sitio de preguntas frecuentes. Se utiliza un evento
 
 Aquí podrás encontrar un despliegue del proyecto:
 
+https://moilu.github.io/js-faq/
+
 
 
 ## Contacto
